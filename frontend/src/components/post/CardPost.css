@@ -1,0 +1,12 @@
+div.card {
+    margin-bottom: 15px;
+}
+
+div.card-header{
+    padding: 0px;
+}
+
+div.card-header img{
+    height: 100%;
+    width: 100%;
+}

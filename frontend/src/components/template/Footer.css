@@ -1,0 +1,12 @@
+footer.footer{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 10px 25px;
+    background-color:#111;
+    box-shadow: var(--shadow);
+}
+
+span{
+    font-size: 15px;
+}
